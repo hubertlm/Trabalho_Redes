@@ -10,12 +10,13 @@ Para jogar, você precisará de uma máquina para rodar o servidor e duas máqui
 
 Na máquina que atuará como servidor:
 
-1.  Navegue até o diretório onde o arquivo `servidor.py` está localizado.
-2.  Execute o servidor com o comando:
+1.  Abra um terminal ou prompt de comando.
+2.  Navegue até o diretório onde o arquivo `servidor.py` está localizado.
+3.  Execute o servidor com o comando:
     ```bash
     python servidor.py
     ```
-3.  O servidor iniciará e aguardará a conexão de dois clientes.
+4.  O servidor iniciará e aguardará a conexão de dois clientes.
 
 ### 2. Executando os Clientes
 
